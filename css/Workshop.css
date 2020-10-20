@@ -1,0 +1,32 @@
+
+
+body{
+    background: rgb(235,201,122);
+    background: linear-gradient(0deg, rgba(235,201,122,1) 0%, rgba(251,246,135,1) 18%, rgba(245,185,185,1) 45%, rgba(244,210,225,1) 98%);
+    margin: auto;
+    width: 50%;
+}
+table{
+    border-collapse: collapse;
+}
+
+td{
+    height: 30px;
+    width: 30px;
+    color: ivory;
+
+  
+}
+
+td.jaune{
+    background-color: yellow;
+}
+td.gris{
+    background-color: grey;
+}
+td.black{
+    background-color: black;
+}
+td.bleu{
+    background-color: blue;
+}

@@ -1,0 +1,84 @@
+*{
+    font-family: fantasy;
+}
+body{
+    background: rgb(175,235,122);
+    background: linear-gradient(0deg, rgba(175,235,122,1) 0%, rgba(103,244,157,1) 15%, rgba(97,180,246,1) 44%, rgba(84,141,246,1) 63%);
+    width: 50%;
+    margin: auto;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    width: 30px;
+    height: 30px;
+ 
+
+}
+th{
+    height: 20px;
+    
+}
+
+tr{ 
+    height: 30px;
+   
+}
+
+td.black{
+    background-color: black;
+}
+
+td.maroon{
+    background-color: maroon;
+}
+
+td.beige{
+    background-color: beige;
+}
+td.lemonchiffon{
+    background-color: lemonchiffon;
+}
+td.greenyellow{
+    background-color: greenyellow;
+}
+
+td.darked{
+    background-color: darkred;
+}
+
+td.brown{
+    background-color: brown;
+
+}
+
+td.green{
+    background-color: green;
+}
+
+td.lightgreen{
+    background-color: lightgreen;
+}
+
+td.limegreen{
+    background-color: limegreen;
+}
+
+td.yellow{
+    background-color: yellow;
+}
+td.lightsalmon{
+    background-color: lightsalmon;
+}
+
+td.lightyellow{
+    background-color:lightyellow;
+}
+
+td.lightskyblue{
+    background-color: lightskyblue;
+}
+

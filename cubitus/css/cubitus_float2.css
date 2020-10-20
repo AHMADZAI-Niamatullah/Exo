@@ -1,0 +1,124 @@
+
+body{
+    background-color: whitesmoke;
+}
+section{
+    width: 70%;
+}
+
+.t1{
+    /*display: inline-block;*/
+    float: left;
+    height: 10em;
+    width: 10em;
+    border: 0.3rem solid rgb(100, 1, 1);
+    margin: 0.3rem;
+    background-color: rgb(243, 82, 42);
+    border-radius: 26px 56px 51px 112px;
+    border-radius: 26px 56px 51px 85px;
+    -moz-border-radius: 26px 56px 51px 85px;
+    -webkit-border-radius: 26px 56px 51px 85px;
+    text-align: center;
+    font-size: 120%;
+    color: rgb(46, 42, 240);
+}
+.red{
+    float: left;
+    height: 10em;
+    width: 10em;
+    border: 0.3rem solid rgb(6, 17, 116);
+    margin: 0.3rem;
+    background-color: rgb(207, 63, 27);
+    border-radius: 26px 56px 51px 112px;
+    border-radius: 26px 56px 51px 85px;
+    -moz-border-radius: 26px 56px 51px 85px;
+    -webkit-border-radius: 26px 56px 51px 85px;
+    text-align: center;
+    font-size: 120%;
+    color: rgb(46, 42, 240);
+}
+
+.a1{
+    /*display: inline-block;*/
+    float: left;
+    height: 10em;
+    width: 10em;
+    border: 0.3rem solid rgb(100, 1, 1);
+    margin: 0.3rem;
+    text-align: center;
+    font-size: 120%;
+    color: rgb(0, 0, 0);
+    border-radius: 92px 0px 91px 0px;
+    -moz-border-radius: 92px 0px 91px 0px;
+    -webkit-border-radius: 92px 0px 91px 0px;
+    color: rgb(190, 248, 29);
+}
+
+.round{
+   /* display: inline-block;*/
+   float: left;
+    height: 10em;
+    width: 10em;
+    border: 0.3rem solid rgb(100, 1, 1);
+    margin: 0.3rem;
+    text-align: center;
+    font-size: 120%;
+    color: rgb(214, 241, 241);
+    border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
+}
+
+.cube{
+    height: 10em;
+    width: 10em;
+    float: left;
+    /*display: inline-block;*/
+    border: 0.3rem solid rgb(100, 1, 1);
+    margin: 0.3rem;
+    text-align: center;
+    font-size: 120%;
+    color: rgb(15, 11, 11);
+    border-radius: 27px 58px 26px 57px;
+    -moz-border-radius: 27px 58px 26px 57px;
+    -webkit-border-radius: 27px 58px 26px 57px;
+
+}
+
+.empty{
+    float: left;
+    height: 10em;
+    width: 10em;
+    /*display: inline-block;*/
+    border: 0.rem solid rgb(255, 249, 249);
+    margin: 0.3rem;
+    text-align: center;
+    font-size: 120%;
+    color: rgb(253, 245, 245);
+    border-radius: 27px 58px 26px 57px;
+    -moz-border-radius: 27px 58px 26px 57px;
+    -webkit-border-radius: 27px 58px 26px 57px;
+}
+
+.t1{
+    background-color: yellow;
+}
+
+.a1{
+    background-color: rgb(48, 168, 162);
+}
+
+.round{
+    background-color: crimson;
+}
+
+.cube{
+    background-color: darkviolet;
+}
+
+.clear{
+
+}
+.red{
+    background-color: blue;
+}
