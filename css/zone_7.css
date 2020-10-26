@@ -1,0 +1,70 @@
+body{
+    background-color: whitesmoke;
+    margin: 15%;
+}
+
+header{
+     height: 90px;
+     width: 50%;
+     background-color: teal;
+     color: yellow;
+     line-height: 80px;
+     text-align: center;
+}
+
+.zone{
+      height:640px;
+      width: 50%;
+}
+
+.gauche{
+    height: 640px;
+    width: 20%;
+    float:left;
+    background-color: blue;
+}
+
+.droite{
+    height: 640px;
+    width: 20%;
+    float: right;
+    background-color: blue;
+}
+
+p{
+    text-align: center;
+    color: whitesmoke;
+    line-height: 550px;
+}
+
+
+.bas{
+    background-color: yellow;
+    border: 2px solid black;
+    text-align: center;
+    height: 93px;
+    line-height: 90px;
+    float: left;
+    width: 395px;
+
+}
+
+.clear{
+    clear: both;
+}
+
+.middle{
+
+}
+
+.zone1, .zone2, .zone3, .zone4, .zone5{
+            margin: 0;
+            background-color: yellowgreen;
+            height: 540px;
+            width: 77px;
+            border: 1px solid black;
+            float: left;
+            line-height: 550px;
+            text-align: center;
+            position: relative;
+}

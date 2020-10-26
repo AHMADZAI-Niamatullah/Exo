@@ -1,0 +1,135 @@
+body{
+    background-color: honeydew;
+    margin: 20%;
+}
+header{
+    background-color: rgb(114, 90, 10);
+    color: whitesmoke;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+
+nav{
+    background-color: rgb(95, 139, 6);
+    color: whitesmoke;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.zone{
+    background-color: rgb(233, 230, 233);
+    height: 620px;
+    margin: 0;
+    padding: 8px 8px 15px;
+
+}
+
+.clear{
+    clear: both;
+}
+
+
+
+.petite1{
+    height: 310px;
+    width: 50%;
+    float: left;
+    text-align: center;
+    color: whitesmoke;
+    line-height: 100px;
+}
+
+
+.petite2{
+    height: 310px;
+    width: 50%;
+    float: right;
+    color: whitesmoke;
+    text-align: center;
+    line-height: 100px;
+    
+}
+
+
+.petite3{
+    height: 310px;
+    width: 50%;
+    float: left;
+    color: whitesmoke;
+    text-align: center;
+    line-height: 100px;
+}
+
+
+.petite4{
+    height: 310px;
+    width: 50%;
+    float: right;
+    color: whitesmoke;
+    text-align: center;
+    line-height: 100px;
+}
+
+
+
+.zone1, .zone2, .zone3, .zone4{
+        height: 155px;
+        width: 49%;
+        text-align: center;
+        background-color: tomato;
+        color: whitesmoke;
+        border: whitesmoke 1px solid;
+        float: left;
+        border-right: 1px solid whitesmoke;
+}       
+
+
+
+.zone5, .zone6, .zone7, .zone8{
+    height: 155px;
+    width: 49%;
+    text-align: center;
+    background-color: blue;
+    color: whitesmoke;
+    border: whitesmoke 1px solid;
+    float: right;
+}
+
+
+
+.zone9, .zone10, .zone11, .zone12{
+    height: 155px;
+    width: 49%;
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    border: whitesmoke 1px solid;
+    float: left;
+}
+
+
+
+
+.zone13, .zone14, .zone15, .zone16{
+    height: 155px;
+    width: 49%;
+    text-align: center;
+    background-color: tomato;
+    color: whitesmoke;
+    border: whitesmoke 1px solid;
+    float: right;
+}
+
+
+
+
+footer{
+    text-align: center;
+    color: whitesmoke;
+    height: 100px;
+    background-color: rgb(121, 80, 72);
+    line-height: 100px;
+
+}
